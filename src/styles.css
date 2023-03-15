@@ -1,0 +1,14 @@
+/* Hero Segment */
+
+.hero--section {
+    background-color: black;
+}
+
+.hero--p {
+    font-size: 7rem;
+    text-align: center;
+    margin: 0;
+    color: whitesmoke;
+    line-height: 0;
+  }
+  

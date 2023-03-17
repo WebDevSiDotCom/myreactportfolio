@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Footer from './components/Footer';
 import Main from './components/Main';
 import Contact from './components/Contact';
+// import Navbar from './components/Navbar';
 
 function App() {
   return (

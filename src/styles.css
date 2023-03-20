@@ -6,7 +6,12 @@ textarea {
     display: block;
 }
 
+ul {
+    display: flex;
+}
+
 li {
+
     padding: 1rem;
     list-style: none;
 }
